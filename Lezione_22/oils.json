@@ -1,0 +1,43 @@
+{
+	"fuels": [{
+		"name": "super",
+		"demand": 3000,
+		"price": 70,
+		"octane": 10,
+		"lead": 1
+	}, {
+		"name": "regular",
+		"demand": 2000,
+		"price": 60,
+		"octane": 8,
+		"lead": 2
+	}, {
+		"name": "diesel",
+		"demand": 1000,
+		"price": 50,
+		"octane": 6,
+		"lead": 1
+	}],
+	"oils": [{
+		"name": "crude1",
+		"capacity": 5000,
+		"price": 45,
+		"octane": 12,
+		"lead": 0.5
+	}, {
+		"name": "crude2",
+		"capacity": 5000,
+		"price": 35,
+		"octane": 6,
+		"lead": 2
+	}, {
+		"name": "crude3",
+		"capacity": 5000,
+		"price": 25,
+		"octane": 8,
+		"lead": 3
+	}],
+	"production_cost": 4,
+	"production_max": 14000,
+	"advert_return": 10
+}
